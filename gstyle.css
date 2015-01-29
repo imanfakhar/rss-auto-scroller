@@ -32,4 +32,6 @@
 #css3blogid.feedclass5:active {box-shadow:inset 0px -3px 8px rgba(0, 0, 0, .4)}
 #css3blogid.feedclass5 a:hover {color:#000;text-shadow:1px 1px 0px rgba(255, 255, 255, .4)}
 
+#css3blogid .datefield {float:left;color:#FFF;text-shadow:1px 1px 0px rgba(0, 0, 0, .4);font-size:80%;margin-left:20px;}
+
 @font-face {font-family: 'BYekan';src:url('yekanweb-regular.eot');src:url('yekanweb-regular.ttf') format('truetype'),url('yekanweb-regular.woff') format('woff'),url('yekanweb-regular.svg') format('svg');}
